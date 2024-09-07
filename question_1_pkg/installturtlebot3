@@ -1,0 +1,19 @@
+Turtlebot installation:
+sudo apt update
+sudo apt install ros-foxy-turtlebot3-gazebo ros-foxy-turtlebot3-* ros-foxy-turtlebot3-simulations
+
+view the existing worlds:
+cd /opt/ros/foxy/share/turtlebot3_gazebo/launch
+
+Run the simulator:
+ros2 launch turtlebot3_teleop <launch file name>
+
+Set model in bash
+export TURTLEBOT3_MODEL=burger
+
+Turtlebot3 Launch:
+ros2 launch turtlebot3_gazebo empty_world.launch.py
+
+
+
+
