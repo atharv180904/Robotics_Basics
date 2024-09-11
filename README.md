@@ -1,5 +1,5 @@
 # robotics_basics
-Robotics Assignment
+Robotics Assignment - Sapien Robotics
 
 Relevant documentation for each package in their respective folders.
 
