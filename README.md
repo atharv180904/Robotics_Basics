@@ -1,8 +1,8 @@
 # robotics_basics
 
-# Ubuntu: 20.04 Focal Fossa
+Ubuntu: 20.04 Focal Fossa
 
-# ROS2: Foxy Fitzroy
+ROS2: Foxy Fitzroy
 
 Robotics Assignment - Sapien Robotics
 
