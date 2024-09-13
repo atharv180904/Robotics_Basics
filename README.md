@@ -1,4 +1,8 @@
 # robotics_basics
+
+Ubuntu: 20.04 Focal Fossa
+ROS2: Foxy Fitzroy
+
 Robotics Assignment - Sapien Robotics
 
 Relevant documentation for each package in their respective folders.
